@@ -1,0 +1,8 @@
+# Built binary
+/webhook-forward-server
+/wfs
+
+# Runtime database
+*.db
+*.db-shm
+*.db-wal
